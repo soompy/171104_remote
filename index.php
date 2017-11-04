@@ -3,7 +3,7 @@
  <head>
   <meta charset="utf-8" /> 
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>2번</title>
+  <title>3번</title>
   <meta name="viewport" content="width=device-width; initial-scale=1.0">
   <meta name="description" content="웹포트폴리오 이수민">
   <meta name="keywords"    content="웹 디자인, 그래픽, HTML5, CSS3">
